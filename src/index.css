@@ -203,7 +203,7 @@ nav {
     display: none;
   }
   .links-container {
-    height: auto;
+    height: auto !important;
   }
   .links {
     display: flex;
